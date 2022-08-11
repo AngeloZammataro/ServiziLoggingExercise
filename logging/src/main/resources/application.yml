@@ -1,0 +1,14 @@
+customEnvs:
+    n1: 2
+    n2: 8
+logging:
+    level:
+        co:
+            develhope:
+                logging:
+                    services: DEBUG
+        root: INFO
+spring:
+    output:
+        ansi:
+            enabled: always
